@@ -1,0 +1,2 @@
+carrot 20 1
+potato 12 0

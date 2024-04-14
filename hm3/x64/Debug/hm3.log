@@ -1,0 +1,22 @@
+﻿  Store.cpp
+D:\university\2course\С++\2semestr\hm3\hm3\Product.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Store.cpp")
+  
+D:\university\2course\С++\2semestr\hm3\hm3\User.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Store.cpp")
+  
+D:\university\2course\С++\2semestr\hm3\hm3\Client.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Store.cpp")
+  
+  hm3.cpp
+D:\university\2course\С++\2semestr\hm3\hm3\Product.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "hm3.cpp")
+  
+D:\university\2course\С++\2semestr\hm3\hm3\User.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "hm3.cpp")
+  
+D:\university\2course\С++\2semestr\hm3\hm3\Client.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "hm3.cpp")
+  
+  Создание кода...
+  hm3.vcxproj -> D:\university\2course\С++\2semestr\hm3\x64\Debug\hm3.exe
